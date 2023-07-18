@@ -55,7 +55,7 @@ html {
     .bpw-layout {
         width: 80% !important;
         height: 80%;
-        right: 2rem;
+        right: 10%;
         bottom: 0;
         border-radius: 10px;
     }
