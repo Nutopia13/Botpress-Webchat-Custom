@@ -61,6 +61,7 @@ html {
     }
 }
 
+
   .bpw-header-icon,
   .bpw-header-icon svg,
   .bpw-header-icon svg path {
@@ -112,6 +113,7 @@ html {
   }
 
   .bpw-composer {
+    color: white;
     background-color: #160544;
     border-top: 1px solid #ffffff;
   }
