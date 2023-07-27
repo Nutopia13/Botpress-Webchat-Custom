@@ -111,7 +111,7 @@ p,
 
 /* Styling for hyperlinks in the chat interface */
 a {
-  color: #000000;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -154,7 +154,7 @@ a {
 .bpw-bot-avatar img,
 .bpw-bot-avatar svg {
   background: #fff;
-  border: 3px solid #000000;
+  border: 3px solid #ffffff;
 }
 
 /* Styling for the general scrollbar in the web page */
@@ -233,7 +233,7 @@ a {
   justify-content: center;
   align-items: center;
   border-radius: var(--spacing-medium);
-  background-color: var(--theme-primary);
+  background-color: #A1CCD1;
   padding: 20px;
   width: 24px;
   height: 24px;
