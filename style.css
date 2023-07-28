@@ -216,7 +216,7 @@ a {
 .bpw-send-button:disabled,
 .bpw-send-button:disabled:hover {
   opacity: 0.4;
-  background-color: var(--theme-primary);
+  background-color: #A1CCD1;
   cursor: default;
 }
 
