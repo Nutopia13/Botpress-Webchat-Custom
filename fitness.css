@@ -195,18 +195,21 @@ a {
   color: #000000;
   background: #F6F4EB;
   font-size: 16px;
+  opacity: 0;
   border-bottom-right-radius: 15px;
   border-bottom-left-radius: 15px;
 }
 
 /* Styling for the hyperlinks in the 'powered by' section of the chat interface */
 .bpw-powered a {
+  opacity: 0;
   color: #000000;
   text-decoration: none;
 }
 
 /* Styling for hover effect on the hyperlinks in the 'powered by' section of the chat interface */
 .bpw-powered a:hover {
+  opacity: 0;
   text-decoration: underline;
 }
 
